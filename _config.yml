@@ -1,0 +1,18 @@
+# Setup
+title:               catgirl.delivery
+tagline:             ''
+description:         'Ramblings of an allegedly sane catgirl. What is the definition of insanity anyway?'
+url:                 https://catgirl.delivery
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+
+# About/contact
+author:
+  name:              chaos_princess
+  url:               https://github.com/WhatAmISupposedToPutHere/
+
+# Gems
+plugins:
+  - jekyll-paginate
